@@ -1,0 +1,9 @@
+torch==2.2.1+cu121
+tokenizers==0.15.2
+transformers==4.38.2
+fastapi
+uvicorn
+onnxruntime
+nltk
+pandas
+numpy
